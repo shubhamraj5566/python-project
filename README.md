@@ -1,2 +1,3 @@
 # python-project
-Python Code
+a=int(input())                         //single value input
+b,c=map(int,input().split()))          //multiple value input
